@@ -12,8 +12,12 @@ let nums="";
 let boolLogin=Boolean(nums);
 console.log(boolLogin);
 //  0=>false,1=>true; null=>false ,string =>true, empty string=> false;
-*/
-console.log(2+2+"3");
-console.log("3"+3+2);
-console.log(+"");
-console.log(+true);
+// */
+// console.log(2+2+"3");
+// console.log("3"+3+2);
+// console.log(+"");
+// console.log(+true);
+
+console.log(null==0);
+console.log(null<0)
+console.log(null>=0)
